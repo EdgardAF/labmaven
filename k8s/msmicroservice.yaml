@@ -34,7 +34,7 @@ spec:
     spec:
       containers:
         - name: examen
-          image: mzegarras/msmicroservice
+          image: mzegarra/java01
           resources:
             limits:
               cpu: 500m
